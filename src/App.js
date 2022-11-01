@@ -47,7 +47,7 @@ function App() {
           onScan={(v) => {
             console.log(v)
           }}
-          style={{ width: "600px", height: '200px'}}
+          style={{ width: "600px", height: '300px'}}
           containerStyle={{ maxWidth: '250px', paddingTop: "0px", paddingBottom: "0px", width: '500px',  borderRadius: "20px", position: 'absolute', top: '0'   }}
           videoStyle={{  margin: '12px auto', objectFit: "cover", borderRadius: "20px" }}
         />
